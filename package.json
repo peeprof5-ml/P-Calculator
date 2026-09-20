@@ -1,0 +1,16 @@
+{
+  "name": "railway-node-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1",
+    "lowdb": "^7.0.1",
+    "node-json-db": "^2.6.0"
+  }
+}
+
